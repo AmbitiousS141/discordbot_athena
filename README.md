@@ -9,3 +9,5 @@ I'm not entirely new to Python - I took a course on it... 5 years ago. Coding th
 Someone once told me they didn't think I was able to code a Discord bot. Haha, I guess this bot's existence will annoy them more than its functionality.
 
 Thanks for reading :D
+
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)]
