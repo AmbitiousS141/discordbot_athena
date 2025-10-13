@@ -61,5 +61,4 @@ async def on_reaction_add(reaction, user):
 
 BOT_TOKEN = os.getenv('BOT_TOKEN')
 
-
 bot.run(BOT_TOKEN) 
