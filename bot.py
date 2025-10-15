@@ -1,8 +1,8 @@
-# AnnoyBot
+# AnnoyBot x TreeHuggr
 # Athena Award
 # Stephanie Uzea
-# This program is meant to annoy people who send my emoji in one of the servers I'm in :3
-# v1 9/29/2025
+# This program is meant to annoy people who send my emoji in one of the servers I'm in :3 . To repurpose it for most servers, it also sends positive messages related to the environment to raise awareness.
+# v1 9/29/2025, v2 10/14/2025
 
 import random
 import discord
@@ -61,4 +61,4 @@ async def on_reaction_add(reaction, user):
 
 BOT_TOKEN = os.getenv('BOT_TOKEN')
 
-bot.run(BOT_TOKEN) 
+bot.run(BOT_TOKEN)
