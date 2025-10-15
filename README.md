@@ -1,5 +1,4 @@
 # discordbot_athena
-AnnoyBot x TreeHuggr
 I'm proud to present to you... TreeHuggr! 
 They say little actions can build up to change big things. TreeHuggr aims to inspire change through its regular messages and reactions related to the environment. Quotes and tips are provided on command, and positive reactions are added when server members react emojis of plants. To test it out:
 try typing in "!tip" or "!quote"
@@ -13,7 +12,7 @@ AnnoyBot is the component of this bot that retaliates to various emojis. Essenti
 
 · · ─ ·𖥸· ─ · ·
 
-I'm not entirely new to Python - I took a course on it... 5 years ago. Coding this bot refreshed my veeeeeeeeeery dusty memory, from syntax to logic. To get an idea of it, I typed =/= instead of != at some point - and then scrapped that part entirely, as there was a logic error with my original loop. Other concepts I refreshed with this project are the addition assignment operator, the len() function, f-strings, and naming conventions. It might be just over 50 lines of code, but I'm proud of myself for getting back into this and recalling what I learned in the past :D. 
+I'm not entirely new to Python - I took a course on it... 5 years ago. Coding this bot refreshed my veeeeeeeeeery dusty memory, from syntax to logic. To get an idea of it, I typed =/= instead of != at some point - and then scrapped that part entirely, as there was a logic error with my original loop. Other concepts I refreshed with this project are the addition assignment operator, the len() function, f-strings, and naming conventions. It might be just over 100 lines of code, but I'm proud of myself for getting back into this and recalling what I learned in the past :D. 
 
 Someone once told me they didn't think I was able to code a Discord bot. Haha, I guess this bot's existence will annoy them more than its functionality.
 
