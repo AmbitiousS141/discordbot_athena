@@ -1,8 +1,7 @@
 # discordbot_athena
 I'm proud to present to you... TreeHuggr! 
-They say little actions can build up to change big things. TreeHuggr aims to inspire change through its regular messages and reactions related to the environment. Quotes and tips are provided on command, and positive reactions are added when server members react emojis of plants. To test it out:
-try typing in "!tip" or "!quote"
-try reacting a plant emoji to a message!
+
+They say little actions can build up to change big things. TreeHuggr aims to inspire change through its regular messages and reactions related to the environment. Quotes and tips are provided on command, and positive reactions are added when server members react emojis of plants. To test it out: try typing in "!tip" or "!quote", or reacting a plant emoji to a message!
 
 By integrating small reminders in our daily lives, we can influence mindsets to strive for change.
 
